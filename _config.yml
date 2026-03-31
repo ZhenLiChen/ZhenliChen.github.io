@@ -13,14 +13,14 @@ name                     : "Chen Zhenli"
 description              : "Fudan University | AI Enthusiast"
 url                      : "https://zhenlichen.github.io"
 baseurl                  : ""
-repository               : "zhenlichen/zhenlichen.github.io"
+repository               : "ZhenliChen/ZhenliChen.github.io"
 teaser                   : 
 
 # 侧边栏作者信息
 author:
   name             : "Chen Zhenli"
   avatar           : "profile.jpg" # 确保 images/ 文件夹下有这个图，没有就先留着
-  bio              : "Fudan University | 捣鼓 AI 的开发者"
+  bio              : "Fudan University"
   location         : "Shanghai, China"
   email            : "242101100013@m.fudan.edu.cn"
   github           : "ZhenliChen"
